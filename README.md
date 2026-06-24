@@ -38,5 +38,5 @@ This project analyzes customer churn data to understand why customers leave and 
 
 ## Author
 
-Your Name
+Disha Mohniya
 Data Analytics Intern
